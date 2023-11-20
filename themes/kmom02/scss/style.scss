@@ -1,0 +1,57 @@
+@import '../../node_modules/normalize.css/normalize';
+@import 'variables';
+
+@import 'blockquotes';
+@import 'code';
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Roboto+Mono:wght@300&display=swap');
+
+* {
+    font-family: 'Roboto Mono', monospace;
+    color: $font-color;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+    color: rgb(8, 59, 8);
+
+}
+
+
+body {
+    background-color: $background-color;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.footer {
+    margin-top: auto;
+    padding: 20px;
+    display: flex;
+    background: linear-gradient(to bottom, #f00, #7b0000);
+    border-top: 3px solid;
+    text-align: center;
+}
+
+.site-header {
+    background: linear-gradient(to bottom, #7b0000, #f00);
+    display: flex;
+    border-bottom: 3px solid;
+}
+
+.main {
+    text-align: center;
+    padding: 10px;
+
+}
+
+.main img {
+    border: 1px solid;
+}
+
