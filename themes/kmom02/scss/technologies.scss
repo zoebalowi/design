@@ -1,0 +1,123 @@
+
+.landingpage {
+    display: grid;
+    gap: 1rem 1.5rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 4rem;
+}
+
+.landingpage h1 {
+    grid-column: span 3;
+    justify-self: center;
+}
+
+.landingpage > div {
+    text-align: left;
+    background-color: rgba(42, 119, 42, 0.344);
+    height: 85px;
+    font-size: 13px;
+    font-weight: 100;
+    border: 3px solid rgba(255, 0, 0, 0.669);
+    padding: 1rem;
+    
+}
+
+.box-css {
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+.box-css :hover{
+    color: rgb(255, 2, 2);
+}
+
+.box-html {
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+.box-html :hover{
+    color: rgb(255, 2, 2);
+}
+
+.box-js {
+    grid-row: span 2;
+    grid-column: span 2;
+}
+
+.box-js :hover{
+    color: rgb(255, 2, 2);
+}
+
+.box-php {
+    grid-row: span 2;
+    grid-column: span 1;
+}
+
+.box-php :hover{
+    color: rgb(255, 2, 2);
+}
+
+.box-py {
+    grid-row: span 3;
+    grid-column: span 3;
+}
+
+.box-py :hover{
+    color: rgb(255, 2, 2);
+}
+
+.box-git {
+    grid-row: span 4;
+    grid-column: span 1;
+}
+
+.box-git :hover{
+    color: rgb(255, 2, 2);
+}
+
+.box-sql {
+    grid-row: span 4;
+    grid-column: span 2;
+}
+
+.box-sql :hover{
+    color: rgb(255, 2, 2);
+}
+
+.single-technology {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.side-bar {
+    flex: 0 0 20%;
+    border: 3px solid #f00;
+    background-color: rgba(5, 120, 5, 0.491);
+    padding-bottom: 5%;
+    text-align: center;
+    margin: 2em;
+    border-radius: 5%;
+}
+
+.side-bar li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    
+   
+}
+
+.tech-content {
+    width: 60%;
+}
+
+.side-bar ul :hover {
+    color: rgb(255, 0, 0);
+
+}
