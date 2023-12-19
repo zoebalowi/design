@@ -19,7 +19,7 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Oswald', sans-serif;
-    color: rgb(19, 85, 19);
+    color: $font-color;
     
 
 }
@@ -36,15 +36,15 @@ body {
     margin-top: auto;
     padding: 20px;
     display: flex;
-    background: linear-gradient(to bottom, #f00, #7b0000);
-    border-top: 3px solid rgb(2, 145, 2);
+    background: linear-gradient(to bottom, $background-alternative-color-gr, $background-alternative-color-mrkareg);
+    border-top: 3px solid $background-alternative-color-mrkareg;
     text-align: center;
 }
 
 .site-header {
-    background: linear-gradient(to bottom, #7b0000, #f00);
+    background: linear-gradient(to bottom, $background-alternative-color-mrkareg, $background-alternative-color-gr);
     display: flex;
-    border-bottom: 3px solid rgb(2, 145, 2);
+    border-bottom: 3px solid $background-alternative-color-mrkareg;
 }
 
 .main {

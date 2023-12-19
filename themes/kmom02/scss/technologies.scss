@@ -1,3 +1,4 @@
+@import 'variables';
 
 .landingpage {
     display: grid;
@@ -15,11 +16,11 @@
 
 .landingpage > div {
     text-align: left;
-    background-color: rgba(42, 119, 42, 0.344);
+    background-color: $background-alternative-color-green;
     height: 85px;
     font-size: 13px;
     font-weight: 100;
-    border: 3px solid rgba(255, 0, 0, 0.669);
+    border: 3px solid $background-alternative-color-mrkareg;
     padding: 1rem;
     
 }
@@ -30,7 +31,7 @@
 }
 
 .box-css :hover{
-    color: rgb(255, 2, 2);
+    color: $font-alternative-color;
 }
 
 .box-html {
@@ -39,7 +40,7 @@
 }
 
 .box-html :hover{
-    color: rgb(255, 2, 2);
+    color:$font-alternative-color;
 }
 
 .box-js {
@@ -48,7 +49,7 @@
 }
 
 .box-js :hover{
-    color: rgb(255, 2, 2);
+    color: $font-alternative-color;
 }
 
 .box-php {
@@ -57,7 +58,7 @@
 }
 
 .box-php :hover{
-    color: rgb(255, 2, 2);
+    color: $font-alternative-color;
 }
 
 .box-py {
@@ -66,7 +67,7 @@
 }
 
 .box-py :hover{
-    color: rgb(255, 2, 2);
+    color: $font-alternative-color;
 }
 
 .box-git {
@@ -75,7 +76,7 @@
 }
 
 .box-git :hover{
-    color: rgb(255, 2, 2);
+    color: $font-alternative-color;
 }
 
 .box-sql {
@@ -84,7 +85,7 @@
 }
 
 .box-sql :hover{
-    color: rgb(255, 2, 2);
+    color: $background-alternative-color-gr;
 }
 
 .single-technology {
@@ -96,8 +97,8 @@
 
 .side-bar {
     flex: 0 0 20%;
-    border: 3px solid #f00;
-    background-color: rgba(5, 120, 5, 0.491);
+    border: 3px solid $background-alternative-color-mrkareg;
+    background-color: $background-alternative-color-green;
     padding-bottom: 5%;
     text-align: center;
     margin: 2em;
@@ -118,6 +119,6 @@
 }
 
 .side-bar ul :hover {
-    color: rgb(255, 0, 0);
+    color: $background-alternative-color-gr;
 
 }

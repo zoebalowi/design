@@ -328,9 +328,9 @@ code {
 
 pre {
   padding: 0 1em;
-  border: 1px solid #ccc;
+  border: 1px solid #033318;
   border-radius: 0.3em;
-  background: #f5f5f5;
+  background: rgba(135, 204, 165, 0.5647058824);
 }
 
 pre code {
@@ -359,11 +359,11 @@ pre code {
 
 .landingpage > div {
   text-align: left;
-  background-color: rgba(42, 119, 42, 0.344);
+  background-color: rgba(135, 204, 165, 0.5647058824);
   height: 85px;
   font-size: 13px;
   font-weight: 100;
-  border: 3px solid rgba(255, 0, 0, 0.669);
+  border: 3px solid #1B663B;
   padding: 1rem;
 }
 
@@ -373,7 +373,7 @@ pre code {
 }
 
 .box-css :hover {
-  color: rgb(255, 2, 2);
+  color: #4FAA69;
 }
 
 .box-html {
@@ -382,7 +382,7 @@ pre code {
 }
 
 .box-html :hover {
-  color: rgb(255, 2, 2);
+  color: #4FAA69;
 }
 
 .box-js {
@@ -391,7 +391,7 @@ pre code {
 }
 
 .box-js :hover {
-  color: rgb(255, 2, 2);
+  color: #4FAA69;
 }
 
 .box-php {
@@ -400,7 +400,7 @@ pre code {
 }
 
 .box-php :hover {
-  color: rgb(255, 2, 2);
+  color: #4FAA69;
 }
 
 .box-py {
@@ -409,7 +409,7 @@ pre code {
 }
 
 .box-py :hover {
-  color: rgb(255, 2, 2);
+  color: #4FAA69;
 }
 
 .box-git {
@@ -418,7 +418,7 @@ pre code {
 }
 
 .box-git :hover {
-  color: rgb(255, 2, 2);
+  color: #4FAA69;
 }
 
 .box-sql {
@@ -427,7 +427,7 @@ pre code {
 }
 
 .box-sql :hover {
-  color: rgb(255, 2, 2);
+  color: #87CCA5;
 }
 
 .single-technology {
@@ -439,8 +439,8 @@ pre code {
 
 .side-bar {
   flex: 0 0 20%;
-  border: 3px solid #f00;
-  background-color: rgba(5, 120, 5, 0.491);
+  border: 3px solid #1B663B;
+  background-color: rgba(135, 204, 165, 0.5647058824);
   padding-bottom: 5%;
   text-align: center;
   margin: 2em;
@@ -459,7 +459,7 @@ pre code {
 }
 
 .side-bar ul :hover {
-  color: rgb(255, 0, 0);
+  color: #87CCA5;
 }
 
 /*!
@@ -6578,16 +6578,16 @@ readers do not read off random characters that represent icons */
 
 * {
   font-family: "Roboto Mono", monospace;
-  color: #000;
+  color: #033318;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Oswald", sans-serif;
-  color: rgb(19, 85, 19);
+  color: #033318;
 }
 
 body {
-  background-color: #ffe3e3;
+  background-color: #F0FEF6;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -6597,15 +6597,15 @@ body {
   margin-top: auto;
   padding: 20px;
   display: flex;
-  background: linear-gradient(to bottom, #f00, #7b0000);
-  border-top: 3px solid rgb(2, 145, 2);
+  background: linear-gradient(to bottom, #87CCA5, #1B663B);
+  border-top: 3px solid #1B663B;
   text-align: center;
 }
 
 .site-header {
-  background: linear-gradient(to bottom, #7b0000, #f00);
+  background: linear-gradient(to bottom, #1B663B, #87CCA5);
   display: flex;
-  border-bottom: 3px solid rgb(2, 145, 2);
+  border-bottom: 3px solid #1B663B;
 }
 
 .main {

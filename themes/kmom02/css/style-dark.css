@@ -1,0 +1,76 @@
+body {
+  background-color: #02042a;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+* {
+  color: #D0D2F5;
+}
+
+.header {
+  background-color: #030533;
+  border-bottom: 3px solid #40448F;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Oswald", sans-serif;
+  color: #D0D2F5;
+}
+
+.site-header {
+  background: #02042a;
+  border-bottom: 3px solid #40448F;
+}
+
+.nav a {
+  color: #D0D2F5;
+}
+
+.footer {
+  margin-top: auto;
+  padding: 20px;
+  display: flex;
+  border-top: 3px solid #40448F;
+  background: #030533;
+  text-align: center;
+}
+
+code {
+  margin: 0 0.1em;
+  padding: 0.1em 0.2em;
+  border: 1px solid #ccc;
+  border-radius: 0.3em;
+  background: #40448F;
+  font-family: monospace;
+  font-size: 0.85rem;
+  line-height: 1.9824;
+}
+
+pre {
+  padding: 0 1em;
+  border: 1px solid #ccc;
+  border-radius: 0.3em;
+  background: #40448F;
+}
+
+.landingpage > div {
+  text-align: left;
+  background-color: rgba(23, 26, 92, 0.5215686275);
+  height: 85px;
+  font-size: 13px;
+  font-weight: 100;
+  border: 3px solid #40448F;
+  padding: 1rem;
+}
+
+.side-bar {
+  flex: 0 0 20%;
+  border: 1px solid white;
+  background-color: #40448F;
+  padding-bottom: 5%;
+  text-align: center;
+  margin: 2em;
+  border-radius: 5%;
+}

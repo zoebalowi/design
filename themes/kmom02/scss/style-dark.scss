@@ -1,0 +1,83 @@
+@import 'variables-dark';
+
+
+body {
+    background-color: $background-color;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+* {
+    color: $font-color;
+}
+
+.header {
+    background-color: $background-alternative-color-nav;
+    border-bottom: 3px solid $background-alternative-color-darkblue;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Oswald", sans-serif;
+    color: $font-color;
+}
+
+.site-header {
+    background: $background-color;
+    border-bottom: 3px solid $background-alternative-color-darkblue;
+    
+    
+}
+
+.nav a {
+    color: $font-color;
+}
+
+.footer {
+    margin-top: auto;
+    padding: 20px;
+    display: flex;
+    border-top: 3px solid $background-alternative-color-darkblue;
+    background: $background-alternative-color-nav;
+    text-align: center;
+}
+
+code {
+    margin: 0 0.1em;
+    padding: 0.1em 0.2em;
+    border: 1px solid #ccc;
+    border-radius: 0.3em;
+    background: $background-alternative-color-darkblue;
+    font-family: monospace;
+    font-size: 0.85rem;
+    line-height: 1.9824;
+}
+
+pre {
+    padding: 0 1em;
+    border: 1px solid #ccc;
+    border-radius: 0.3em;
+    background: $background-alternative-color-darkblue;
+}
+
+.landingpage > div {
+    text-align: left;
+    background-color: $background-alternative-color-main;
+    height: 85px;
+    font-size: 13px;
+    font-weight: 100;
+    border: 3px solid $background-alternative-color-darkblue;
+    padding: 1rem;
+}
+
+.side-bar {
+    flex: 0 0 20%;
+    border: 1px solid $background-alternative-color-vit;
+    background-color: $background-alternative-color-darkblue;
+    padding-bottom: 5%;
+    text-align: center;
+    margin: 2em;
+    border-radius: 5%;
+}
+
