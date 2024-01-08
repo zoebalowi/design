@@ -4,6 +4,9 @@
 @import 'blockquotes';
 @import 'code';
 @import 'technologies';
+@import 'gallery';
+@import 'mobile-nav';
+
 @import '../../shared/fontawesome/scss/fontawesome';
 $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/brands';
@@ -51,7 +54,7 @@ body {
     text-align: center;
     padding: 10px;
     margin: 0 auto;
-    width: 64em;
+    width: 80%;
 
 }
 
@@ -59,3 +62,7 @@ body {
     border: 1px solid;
 }
 
+.excel {
+    width: 750px;
+    height: 150px;
+}
