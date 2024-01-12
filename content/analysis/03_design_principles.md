@@ -1,12 +1,18 @@
 Titel på rapporten
 =======================
 
-Skriv en eller två rader om vad uppgiften handlar om.
+Uppgiften går ut på att analysera 3 personsidors design och syfte samt analysera min egen hemsida och¨''' bedömma den.
 
 Urval
 -----------------------
 
 Berätta vilka webbplatser du valt att undersöka och varför eller hur du gick tillväga när du gjorde ditt urval.
+Mina tre personsidor jag valt är:
+<li>kenzas.se - kenza zouiten subosic</li>
+<li>https://www.rihannanow.com/ - rihanna</li>
+<li>Beyoncé (beyonce.com) - beyonce</li>
+Dessa tre personsidor är om 3 kvinnor jag alltid varit ett fan av. Dessa är sidor har jag besökt tidigare vilket gjorde urvalet betydligt mycket lättare.
+
 
 Metod
 -----------------------
@@ -31,4 +37,4 @@ Ange de eventuella referenser du använder dig av, om några.
 Övrigt
 -----------------------
 
-Skriv ditt eget namn samt vilka gruppmedlemmar som deltog i att författa rapporten.
+En rapport skriven av Zoë Waters, student på blekinge tekniska högskola.

@@ -8,7 +8,7 @@ Technologies
 ==========================
 
 <div class="box-html">
-    <h3><a href="%base_url%?technology/hej"> HTML</a></h3>
+    <h2><a href="%base_url%?technology/html"> HTML</a></h2>
 </div>
 <div class="box-css">
     <h3><a href="%base_url%?technology/css"> CSS</h3>
