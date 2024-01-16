@@ -54,7 +54,8 @@ Jag tycker alla sidorna är bra designade, skulle dock säga att nivån på sido
 Min hemsida
 -------------
 Min design har ett monokromatiskt tema och en del användning av kontraster. Det är en ganska enkel design, och jag inser att jag kanske hade kunnat utforska mitt färgtema på ett mer sofistikerat sätt. Trots att det inte är överdrivet avancerat, tycker dock den har en användarvänlig upplevelse.
-Eftersom jag valde färger i grönt blir sidan inte så sofistikerad enligt mig, hade jag gått in på denna sida hade jag nog trott att det var en hemsida för en förskola. Tyvärr tyckte jag det verka gulligt med en färgstark sida men nu när jag jämfört med det sidor jag nu analyserat inser jag att den inte var så snygg! Trotts min besvikelse är det inget fel på designen, den gynnar sitt mål i alla fall. Jag har inte valt att förbättra designen på något sätt, men om jag hade ändrat något är det nog färgvalen.
+Designprinciper som är inplementerade på min sida är kontraster, även fraiming vilket snys på tillexepel technologies. Det finns även scale på sidan!
+Eftersom jag valde färger i grönt blir sidan inte så sofistikerad enligt mig, hade jag gått in på denna sida hade jag nog trott att det var en hemsida för en förskola. Tyvärr tyckte jag det verka gulligt med en färgstark sida men nu när jag jämfört med det sidor jag nu analyserat inser jag att den inte var så snygg! Trotts min besvikelse är det inget fel på designen, den gynnar sitt mål i alla fall. .
 
 Referenser
 -----------------------
