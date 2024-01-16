@@ -67,7 +67,7 @@ pre {
 
 .side-bar {
   flex: 0 0 20%;
-  border: 1px solid white;
+  border: 1px solid #fff;
   background-color: #40448F;
   padding-bottom: 5%;
   text-align: center;

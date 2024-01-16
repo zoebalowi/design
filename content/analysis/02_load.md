@@ -16,39 +16,39 @@ Resultat
 -----------------------
 
 Resultatet av hemsidornas mätningar enligt Pagespeed:
-<iframe class="excel" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3AMvs26Fl7IWWNvZLrOOX8zKoKiT9Lf1kKYMEJ7fy9LR-iCJAB0tzUmNK61o3siGoVpN9Pb7IvlNT/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe title="excel" class="excel" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3AMvs26Fl7IWWNvZLrOOX8zKoKiT9Lf1kKYMEJ7fy9LR-iCJAB0tzUmNK61o3siGoVpN9Pb7IvlNT/pubhtml?widget=true&amp;headers=false"></iframe>
 
 wikipedia
 ------------------
 <img src="%base_url%/assets/img/wiki.png" alt="andra" style="height: 200px;">
 Förbättringar för wikipedia enligt Pagespeed:
-
-<li>Reduce unused CSS : 0.17s</li>
-<li>Serve images in next-gen formats : 0.16s</li>
-
+<ul>
+    <li>Reduce unused CSS : 0.17s</li>
+    <li>Serve images in next-gen formats : 0.16s</li>
+</ul>
 
 svt play
 -----------------
 <img src="%base_url%/assets/img/svtplay.png" alt="andra" style="height: 200px;">
 Förbättringar för Svtplay enligt Pagespeed:
-
-<li>Reduce initial server response time 1.17s</li>
-<li>Reduce unused JavaScript 0.96s</li>
-<li>Properly size images 0.48s</li>
-
+<ul>
+    <li>Reduce initial server response time 1.17s</li>
+    <li>Reduce unused JavaScript 0.96s</li>
+    <li>Properly size images 0.48s</li>
+</ul>
 kids national geographic 
 -------
 <img src="%base_url%/assets/img/ngk.png" alt="kids" style="height: 200px;">
 Förbättringar för Natinal geographic kids enligt Pagespeed:
-
-<li> Reduce unused JavaScript 6.79s</li>
-<li>Eliminate render-blocking resources 2.67s</li>
-<li>Defer offscreen images 2.66s</li>
-<li>Minify CSS 1.18s</li>
-<li>Reduce unused CSS 1.18s</li>
-<li>Minify JavaScript 0.89s</li>
-<li>Enable text compression 0.78s</li>
-
+<ul>
+    <li> Reduce unused JavaScript 6.79s</li>
+    <li>Eliminate render-blocking resources 2.67s</li>
+    <li>Defer offscreen images 2.66s</li>
+    <li>Minify CSS 1.18s</li>
+    <li>Reduce unused CSS 1.18s</li>
+    <li>Minify JavaScript 0.89s</li>
+    <li>Enable text compression 0.78s</li>
+</ul>
 Analys
 -----------------------
 
@@ -60,10 +60,10 @@ Kids national geografic gav sämst värden utav de 3 webbplatserna. Vi väntande
 
 Referenser
 -----------------------
-
-<li>pagespeed - mätningar av webbplatserna</li>
-<li>google kalkylark - verktyg där vi skrev upp resultat</li>
-
+<ul>
+    <li>pagespeed - mätningar av webbplatserna</li>
+    <li>google kalkylark - verktyg där vi skrev upp resultat</li>
+</ul>
 Övrigt
 -----------------------
 

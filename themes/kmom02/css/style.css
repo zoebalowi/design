@@ -534,11 +534,11 @@ pre code {
 }
 
 .nav a, .nav-toggle {
-  color: black;
+  color: #000;
 }
 
 .nav a:hover, .nav-toggle:hover {
-  color: gray;
+  color: #808080;
   font-weight: bold; /* Add this line to make the text bolder */
 }
 
